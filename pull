@@ -1,1 +1,1 @@
-sudo python pull.py
+sudo python `dirname $0`/pull.py
